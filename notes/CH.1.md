@@ -112,6 +112,34 @@ public class Main {
 
 ```
 >Object-Oriented Programming (OOP) is a way of organizing code by grouping related data and actions together into objects, just like real-world things such as bank accounts, cars, or students.
+-------
+## static vs dynamic laguages 
+
+
+
+| static language | dynamic language |
+|:---|:---|
+|perform typechecking at complile time | perform type checking at runtime |
+ | Errors shows at compile time | Err shows at runtime |
+| Declare datatype before use it | no need to declare datatype of variables |
+|more controll | gives most err at runtime |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# .
+
+
 
 
 
