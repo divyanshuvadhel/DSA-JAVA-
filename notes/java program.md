@@ -48,6 +48,14 @@ public class HelloWorld {
 
 ---
 
+# 3.System.out.println("hello world")
 
+- `System ` a built in java class that provides access to system resources.
 
+- `out` a static field inside `System`  that represents the standerd output stream in console.
 
+- `println` it is short-form of  **print line** it prints the char and move cursor to next line without creating new line.
+
+- `hello world ` a string literal.
+
+ ---
