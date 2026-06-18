@@ -12,4 +12,4 @@
 
 > - [primitive datatype, input ,type casting, autometc convertion ](./notes/input.md)
 
-
+> - [function](./notes/function.md)
