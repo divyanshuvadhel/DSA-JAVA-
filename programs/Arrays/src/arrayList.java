@@ -23,8 +23,10 @@ public class arrayList {
         arr.add(0,1); // add the element
 //        arr.get(0); // get the value
 //        arr.set(0,2); // update the element
-        arr.add(0,10);
-        System.out.println(arr);
+//        arr.add(0,10);
+//        System.out.println(arr);
+        arr.remove(0); // removes th element at index
+        arr.contains(1); // checks if value exist true/flase
 
 
 
