@@ -13,3 +13,7 @@
 > - [primitive datatype, input ,type casting, autometc convertion ](./notes/input.md)
 
 > - [function](./notes/function.md)
+
+> - [Arrays](./notes/Array.md)
+
+> - [linear Search](./notes/linear.md)
