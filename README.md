@@ -17,3 +17,5 @@
 > - [Arrays](./notes/Array.md)
 
 > - [linear Search](./notes/linear.md)
+
+> - [Binary Search ](./notes/BinarySearch.md)
