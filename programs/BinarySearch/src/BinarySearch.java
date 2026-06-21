@@ -4,6 +4,26 @@ public class BinarySearch {
         int [] example={1,2,3,4,5,6,7,8,9};
         System.out.println(infinitArr(example,9));
     }
+
+
+    static  void bsIn2d(int[][]mat,int target){
+        int raw=0;
+        int col=mat[0].length-1;
+
+        while(raw<mat.length && col>=0){
+            int ele=mat[raw][col];
+            if(ele==target) {
+                System.out.println("ele found");
+            }
+            if(ele<target){
+                raw++;
+            }else {
+                col--;
+            }
+        }
+        System.out.println("not found");
+    }
+
     public  static  int Bs(int []arr,int target){
         int start=0;
         int end=arr.length-1;

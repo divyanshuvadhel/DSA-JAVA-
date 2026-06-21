@@ -28,3 +28,5 @@
 4. [Runnig sum 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)
     - [solution ](../programs/Arrays/src/RuninnSum.java)
    
+4.[search in sorted 2d array ](https://leetcode.com/problems/search-a-2d-matrix-ii)
+        -[solution](../programs/BinarySearch/src/BinarySearch.java)
