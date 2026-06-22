@@ -28,5 +28,12 @@
 4. [Runnig sum 1d array](https://leetcode.com/problems/running-sum-of-1d-array/)
     - [solution ](../programs/Arrays/src/RuninnSum.java)
    
-4.[search in sorted 2d array ](https://leetcode.com/problems/search-a-2d-matrix-ii)
-        -[solution](../programs/BinarySearch/src/BinarySearch.java)
+5. [search in sorted 2d array ](https://leetcode.com/problems/search-a-2d-matrix-ii)
+    - [solution](../programs/BinarySearch/src/BinarySearch.java)
+
+6. [Array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
+     - [solution](../programs/Arrays/src/Permutation.java)
+
+6. [Kid with greatest num of candie](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+     - [solution](../programs/Arrays/src/Kid.java)
+

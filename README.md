@@ -19,3 +19,5 @@
 > - [linear Search](./notes/linear.md)
 
 > - [Binary Search ](./notes/BinarySearch.md)
+
+> - [Bubble Sort ](./notes/BubbleSort.md)
