@@ -1,6 +1,6 @@
 > Q.1 Swap two elements in an array
 
-> [solution](../programs/Arrays/src/Quetions.java)
+> [solution](../programs/Arrays/src/Quetions.java)S
 
 
 # linear search problems 
@@ -34,8 +34,14 @@
 6. [Array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
      - [solution](../programs/Arrays/src/Permutation.java)
 
-6. [Kid with greatest num of candie](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+7.   [Kid with greatest num of candie](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
      - [solution](../programs/Arrays/src/Kid.java)
 
-7.[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
-    - [solution](../programs/BinarySearch/src/)
+8.  [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+    - [solution](../programs/BinarySearch/src/PositionOfElement.java)
+    - 
+9. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+    - [solution](../programs/BinarySearch/src/SingleEle.java)
+   
+10. [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+    - [solution](../programs/BinarySearch/src/PeakEle.java)
