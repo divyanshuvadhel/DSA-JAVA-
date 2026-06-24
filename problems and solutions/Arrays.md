@@ -37,3 +37,5 @@
 6. [Kid with greatest num of candie](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
      - [solution](../programs/Arrays/src/Kid.java)
 
+7.[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+    - [solution](../programs/BinarySearch/src/)
