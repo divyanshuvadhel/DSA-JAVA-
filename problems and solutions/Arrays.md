@@ -42,6 +42,9 @@
     - 
 9. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
     - [solution](../programs/BinarySearch/src/SingleEle.java)
-   
+
 10. [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+    - [solution](../programs/BinarySearch/src/PeakEle.java)
+
+11. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
     - [solution](../programs/BinarySearch/src/PeakEle.java)
