@@ -47,4 +47,18 @@
     - [solution](../programs/BinarySearch/src/PeakEle.java)
 
 11. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
-    - [solution](../programs/BinarySearch/src/PeakEle.java)
+    - [solution](../programs/Arrays/src/ArrayBuild.java)
+    
+12. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
+    - [solution](../programs/Arrays/src/Pangram.java)
+
+13. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
+    - [solution](../programs/Arrays/src/CountMatching.java)
+    
+15. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
+    - [solution](../programs/Arrays/src/PeakAltitude.java)
+    
+14. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
+    - [solution](../programs/Arrays/src/FlipingImg.java)
+    
+
