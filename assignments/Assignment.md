@@ -1,5 +1,5 @@
 
-> 1. [assignment one covers the topics](./Assignment1.md)
+> 1. [assignment one covers the topics](Assignment_1/Assignment1.md)
   -  Functions, Input, Type Casting, Overloading 
   - Arrays, 2D Arrays, Matrix, Rotation, Frequency
   - Linear Search variations, Binary Search deep dive, Performance comparison
