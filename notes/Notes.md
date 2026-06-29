@@ -1,23 +1,28 @@
 > NOTES
 
-> - [Programing and basics](./notes/CH.0.md)
+> - [Programing and basics](./CH.0.md)
 
-> - [Types of programing language](./notes/CH.1.md)
+> - [Types of programing language](./CH.1.md)
 
-> - [flow of a program - flowchart](./notes/CH.2.md)
+> - [flow of a program - flowchart](./CH.2.md)
 
-> - [architecture of java ](./notes/Architecture%20of%20java.md)
+> - [architecture of java ](./Architecture%20of%20java.md)
 
-> - [java program explain](./notes/java%20program.md)
+> - [java program explain](./java%20program.md)
 
-> - [primitive datatype, input ,type casting, autometc convertion ](./notes/input.md)
+> - [primitive datatype, input ,type casting, autometc convertion ](./input.md)
 
-> - [function](./notes/function.md)
+> - [function](./function.md)
 
-> - [Arrays](./notes/Array.md)
+> - [Arrays](./Array.md)
 
-> - [linear Search](./notes/linear.md)
+> - [linear Search](./linear.md)
 
-> - [Binary Search ](./notes/BinarySearch.md)
+> - [Binary Search ](./BinarySearch.md)
 
-> - [Bubble Sort ](./notes/BubbleSort.md)
+> - [Bubble Sort ](./BubbleSort.md)
+> - [selection sort](./SelectionSort.md)
+> - [inserstion sort](./InsertionSort.md)
+> - [cycle sort](./CycleSort.md)
+
+> - [String](./String.md)
