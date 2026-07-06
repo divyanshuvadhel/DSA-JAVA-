@@ -32,3 +32,5 @@
 >- [Time and spce complexity ](./Time%20and%20Space%20Complexity.md)
 
 >- [bitwise operator ](./numberSysterm.md)
+
+>- [Maths for dsa ](./maths.md)
