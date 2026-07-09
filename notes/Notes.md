@@ -34,3 +34,6 @@
 >- [bitwise operator ](./numberSysterm.md)
 
 >- [Maths for dsa ](./maths.md)
+
+>- [Merge sort ](./MergeSort.md)
+
