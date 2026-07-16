@@ -37,3 +37,5 @@
 
 >- [Merge sort ](./MergeSort.md)
 
+>- [Quick sort ](./Quicksort.md)
+

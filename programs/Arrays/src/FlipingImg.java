@@ -1,7 +1,7 @@
 public class FlipingImg {
     public int[][] flipAndInvertImage(int[][] image) {
         for(int []raw : image){
-            reversArrayAndInvert(arr);
+            reversArrayAndInvert(raw);
         }
         return image;
     }
@@ -27,7 +27,5 @@ public class FlipingImg {
             end--;
         }
     }
-    public int[][] flipAndInvertImage(int[][] image) {
 
-    }
 }
