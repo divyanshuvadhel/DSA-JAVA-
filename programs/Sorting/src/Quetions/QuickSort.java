@@ -1,5 +1,7 @@
 package Quetions;
 
+import java.util.Arrays;
+
 public class QuickSort {
     public  static void sort(int []arr,int low ,int high){
         if(low>=high){
@@ -28,4 +30,13 @@ public class QuickSort {
             sort(arr,start,high);
         }
     }
+
+    public static void main(String[] args) {
+        int[]nums={2,3,42,1,12,122,12};
+        sort(nums,0,nums.length-1);
+        System.out.println(Arrays.toString(nums));
+    }
+
+
+
 }
